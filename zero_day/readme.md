@@ -1,0 +1,1 @@
+This is a simple project using vagrant, and adding texts with Emacs.
